@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragmentpractice</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blue">I am Blue</string>
+    <string name="hello_green">I am green</string>
+</resources>
